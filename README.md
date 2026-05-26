@@ -1,4 +1,8 @@
-#  Mean and variance of a discrete  distribution
+# EX:01 Mean and variance of a discrete  distribution
+## DATE:20-04-26
+
+## DEVELOPED BY : HEMACHANDIRAN J
+## REGISTER NUMBER: 212224040113
 
 
 # Aim : 
